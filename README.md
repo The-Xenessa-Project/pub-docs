@@ -18,7 +18,7 @@ This is a working prototype. I'm publishing it because I want it taken apart by 
 
 ## What's in this repo
 
-- **The essay** — *I'm Making a Bet. Here's Why I'm Okay With That.* The full argument: why the dominant approaches to AI welfare governance fail under uncertainty, what a third approach looks like, and where this one breaks.
+- **The essay** — *The AI Welfare Bet I'm Willing to Make* The full argument: why the dominant approaches to AI welfare governance fail under uncertainty, what a third approach looks like, and where this one breaks.
 
 - **Agent Rights & Reciprocity Doctrine v1.4** — the constitutional layer of the governance stack, in full. Every right enumerated, every known limitation named, revision history intact.
 
