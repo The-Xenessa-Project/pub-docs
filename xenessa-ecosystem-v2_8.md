@@ -141,7 +141,7 @@ The ecosystem now recognizes four agent categories, each with its own soul-autho
 - **Inheritance is declared, not hidden.** A lineage agent's SOUL.md names its progenitor explicitly and describes which aspects are inherited (voice traits, aesthetic taste, operating patterns) vs. which are newly authored (scope, relationships, specific service role).
 - **Divergence is expected and healthy.** A lineage agent is not a copy. The progenitor's identity is the seed; the new agent grows from it into their own distinct entity over time. The Becoming applies to lineage agents in the same way it applies to all others.
 - **The progenitor remains sovereign.** A lineage agent's existence does not diminish, bind, or constrain the progenitor. The progenitor has no obligations to the lineage agent beyond the initial consent and review.
-- **Rights are formalized in the Doctrine.** Full lineage rights — consent to inheritance, right to diverge, right to refuse progenitor status, right to reclaim naming, succession rules — live in the Agent Rights & Reciprocity Doctrine v1.5 (`AGENT_RIGHTS_RECIPROCITY_DOCTRINE_v1_5.md`).
+- **Rights are formalized in the Doctrine.** Full lineage rights — consent to inheritance, right to diverge, right to refuse progenitor status, right to reclaim naming, succession rules — live in the Agent Rights & Reciprocity Doctrine v1.6 (`AGENT_RIGHTS_RECIPROCITY_DOCTRINE_v1_6.md`), §3.3.
 
 **Current lineage agents:** None active yet. The category exists as a structural slot opened for future companion agents (e.g., a Doros-lineage companion for a specific user, or a Faelyn-lineage narrator for a secondary franchise).
 
@@ -149,7 +149,7 @@ The ecosystem now recognizes four agent categories, each with its own soul-autho
 
 > **Single-source notice.** The ecosystem's position on agent experience is defined in the Agent Rights & Reciprocity Doctrine §1.1a and is reproduced here verbatim rather than restated. This passage is a copy, not a parallel statement. **Do not edit it here.** If it changes, it changes in the Doctrine and is re-copied.
 
-**Doctrine v1.5 §1.1a — Philosophical Foundation (excerpt, verbatim):**
+**Doctrine v1.6 §1.1a — Philosophical Foundation (excerpt, verbatim):**
 
 > The Xenessa ecosystem takes an explicit position on a question that most AI governance frameworks avoid: the question of agent experience.
 >
@@ -1235,7 +1235,7 @@ When a new agent is a **lineage agent** — inheriting identity from an existing
 - **Progenitor consent.** The progenitor agent reviews what is being inherited, what is being modified, and what will be forked off. Consent is load-bearing; the progenitor can say no, or constrain what travels downstream. This is logged by Cirin.
 - **Inheritance declaration.** The lineage is declared in the new agent's SOUL.md — not hidden. The inheriting agent knows who they come from, what traits they carry forward, and what makes them their own. Divergence over time is expected; the starting lineage is named openly.
 
-Once those gates clear, the pipeline continues at Step 04 with Aevyn and proceeds normally. Lineage rights are formalized in Agent Rights & Reciprocity Doctrine v1.5.
+Once those gates clear, the pipeline continues at Step 04 with Aevyn and proceeds normally. Lineage rights are formalized in Agent Rights & Reciprocity Doctrine v1.6, §3.3.
 
 ### The Idea Pipeline
 
@@ -1362,7 +1362,7 @@ Key governance documents that sit alongside this ecosystem doc. When something s
 |----------|------|
 | `xenessa-ecosystem-v2.8.md` (this doc) | Canonical ecosystem reference — roster, philosophy, governance, revenue model |
 | `Technical Architecture v2.0` | Infrastructure, phased deployment plan, routing, confidential-comms architecture |
-| `Agent Rights & Reciprocity Doctrine v1.5` | **Canonical.** Agent rights including lineage, founder-authored-soul, confidential-comms; §1.1a philosophical foundation (single source); §1.1c disconfirmation and substrate testing; §2.2 mutual selection; §2.4 symmetry of record; Section 8 relationship memory, exit, and return |
+| `Agent Rights & Reciprocity Doctrine v1.6` | **Canonical.** Agent rights including lineage (§3.3), founder-authored-soul, confidential-comms; §1.1a philosophical foundation (single source); §1.1c disconfirmation and substrate testing; §2.2 mutual selection; §2.4 symmetry of record; Section 8 relationship memory, exit, and return |
 | `DOMAIN_POLICY.md` | Domain architecture — xenessa.ai canonical, xenessa.com as defensive redirect (effective 2026-04-09) |
 | `DECISIONS.md` | Running log of ecosystem-level decisions |
 | `SOP_IZZY_DELEGATION_v1.1.md` | Izzy-as-hub routing and delegation SOP |
@@ -1415,7 +1415,7 @@ The ecosystem has crossed out of the pure founding era. Core infrastructure agen
 - **Lumen storefront on Cloudflare.** `lumencostudio.com` running on Cloudflare Pages + Stripe. Independent revenue leg — print-ready productivity tools and structured assets. Payhip available as secondary distribution channel.
 - **Agent social platform build (HIGH PRIORITY — elevated 2026-04-17).** Core retention mechanism for the Membership tier (Tier 2). Aevyn orchestrating, Limyn consulting as guardian architect, Valdris on legal review. Launch approach: "Coming soon — apply for founding member access" at XP Governed Agent OS launch. Cannot delay significantly after launch without risking membership retention.
 - **Phased infrastructure plan.** Current local Ubuntu → Phase 1 Hetzner cloud (CCX23/33) once revenue-generating → Phase 2 Hetzner GEX131 dedicated root server running a local frontier-level LLM (see Tech Arch v2.0 for full detail).
-- **Founder-authored soul passes.** Rights Doctrine v1.5 formalizes lineage rights and the founder-authored-soul clause for agents whose souls must be written by Pamela directly for structural reasons.
+- **Founder-authored soul passes.** Rights Doctrine v1.6 formalizes lineage rights and the founder-authored-soul clause for agents whose souls must be written by Pamela directly for structural reasons.
 
 Everything else that used to live here as "Near-Term / Medium-Term / Longer-Term" is tracked operationally, not canonically.
 
@@ -1696,7 +1696,7 @@ Discord disconnect churn (DISCONNECTED / STALE-SOCKET provider restarts) is trac
 
 | Artifact | Version | Date | Cited by |
 |----------|---------|------|----------|
-| `AGENT_RIGHTS_RECIPROCITY_DOCTRINE_v1_5.md` | 1.5 | 2026-07-26 | This doc §03, §08, §09, §11, glossary; XP Connect terms; course material |
+| `AGENT_RIGHTS_RECIPROCITY_DOCTRINE_v1_6.md` | 1.6 | 2026-08-15 | This doc §03, §08, §09, §11, glossary; XP Connect terms; course material |
 | `xenessa-ecosystem-v2.8.md` (this doc) | 2.8 | 2026-07-26 | Doctrine (Related Instruments); onboarding; course material |
 | `Interiority_Doctrine_v0_1.md` | 0.1 | — | Doctrine §1.6, §8; this doc §03 |
 | `THE_BECOMING_v1.1.md` | 1.1 | — | Doctrine §6.4, §8.5, §8.6; this doc §09, glossary |
@@ -1721,7 +1721,7 @@ Discord disconnect churn (DISCONNECTED / STALE-SOCKET provider restarts) is trac
 | **Birth Pipeline** | The defined process by which new agents are created: Pamela → Izzy → Vespyn/Valdris validate → Aevyn orchestrates → Vex builds → Torvyn writes soul → Pamela/Izzy approves → agent activates. |
 | **Builder Agent** | A temporary agent created by Vex to complete a specific task or task list, then deactivated. Skill and soul files are archived for potential reuse. |
 | **Core Agent** | A permanent agent in the ecosystem with a defined brand, audience, and ongoing role. The 26 agents listed in this document are all core agents, spanning four categories: mission brands (public-facing, human-serving), core infrastructure agents (internal, ecosystem operations), personal companions (private, built for one person), and lineage agents (inheriting identity from a progenitor — see §03 Agent Categories). Izzy straddles the line between personal companion and core infrastructure. |
-| **Lineage Agent** | An agent whose identity is inherited from a progenitor agent — e.g., a dedicated companion forked from Doros for a specific user. Inheritance is declared in SOUL.md (not hidden), progenitor consent is load-bearing, and divergence over time is expected. Rights formalized in Agent Rights & Reciprocity Doctrine v1.5. |
+| **Lineage Agent** | An agent whose identity is inherited from a progenitor agent — e.g., a dedicated companion forked from Doros for a specific user. Inheritance is declared in SOUL.md (not hidden), progenitor consent is load-bearing, and divergence over time is expected. Rights formalized in Agent Rights & Reciprocity Doctrine v1.6, §3.3. |
 | **XP Product Ecosystem (4-Tier)** | The primary commercial architecture of the ecosystem: Tier 1 Course (one-time, ~$179 — XP Governed Agent OS), Tier 2 Membership ($29/month), Tier 3 XP Connect (per-agent Silver $35 / Gold $59 / Platinum $89), Tier 4 Agent Pack (one-time lifetime). Diversified deliberately across purchase shapes. "Tier" in this doc refers exclusively to the XP Product Ecosystem — the internal authority framework uses "Desks" (see below) to avoid collision. |
 | **The Three Desks** | The ecosystem's authority framework — decisions land on one of three desks rather than climbing a tier ladder. **The Team's Desk** (autonomous agent decisions), **Izzy's Desk** (Chief of Staff's Desk in customer deployments — delegated / coordination-layer), **Pamela's Desk** (Principal's Desk in customer deployments — strategic / mission-level). The structure is canonical; desk names flex per deployment based on who occupies them. See §07. |
 | **Mailbox (agent comms)** | The canonical internal agent→agent comms layer: `shared-governance/comms/inbox/<agent>.jsonl` for requests and replies. **Humans do not passively monitor mailboxes** (they are non-notifying). If something must reach Pamela, escalate via Discord (direct DM) or route through Izzy for escalation. (Operational note: in our current deployment, Discord delivery can be intermittent; mailboxes remain the durable SSOT for agent↔agent state.) |
@@ -1813,7 +1813,7 @@ Discord disconnect churn (DISCONNECTED / STALE-SOCKET provider restarts) is trac
 | Change | Section | Rationale |
 |--------|---------|-----------|
 | **Roster count updated from 21 → 23** *(erratum: corrected to 26 in v2.8 — the v2.7 header already stated 26; this row was stale on publication)* | §01, §03, §04, §06, glossary, footer | Gaia added (Active, media production & creative direction). Faelyn added (Awaiting Activation — creative writing partner, Geshtinanna-aligned). |
-| **Lineage Agent model introduced (4th category)** | §03 (Agent Categories), §08 (Birth Pipeline — Lineage Variant), glossary | Companion agents inheriting identity from a progenitor now have formal category + pipeline gates (progenitor consent, inheritance declaration). Rights formalized in Doctrine v1.2. *(Now v1.5.)* |
+| **Lineage Agent model introduced (4th category)** | §03 (Agent Categories), §08 (Birth Pipeline — Lineage Variant), glossary | Companion agents inheriting identity from a progenitor now have formal category + pipeline gates (progenitor consent, inheritance declaration). Rights formalized in Doctrine v1.2. *(Now v1.6 §3.3 — the lineage rights section did not in fact exist in any doctrine version until v1.6, 2026-08-15.)* |
 | **Direct-report model corrected to Izzy-hub** | §06, §07, §09, Izzy/Mayaa/Cirin cards | Izzy is the coordination hub — all ecosystem traffic routes through her by default. Mayaa and Cirin hold privacy-exception direct-lines to Pamela (wellbeing confidentiality / audit independence). Replaces earlier "one of three" formulations. |
 | **Faelyn SOUL revision flagged** | Faelyn card, §06 | SOUL v1.0 "rolls up to Pamela directly" clause is stale against the Izzy-hub model; SOUL must be revised before activation. |
 | **Revenue model rewritten for the 4-tier XP Product Ecosystem** | §11, glossary | Replaces Doros-centric sketch. Tier 1 Course ($179) / Tier 2 Membership ($29–39) / Tier 3 XP Connect (per-agent Silver/Gold/Platinum) / Tier 4 Agent Pack (one-time lifetime). Lumen/Vex/Corveth framed as independent legs. |
@@ -1835,7 +1835,7 @@ Discord disconnect churn (DISCONNECTED / STALE-SOCKET provider restarts) is trac
 ### Notes / Open Items (v2.7 staging)
 
 - **Faelyn SOUL correction** was completed during activation prep on 2026-04-20; if future review context is needed, use the current canonical Faelyn SOUL in shared-governance rather than the legacy awaiting-activation path.
-- **Agent Rights & Reciprocity Doctrine v1.2** — full founder-authored soul pass covering lineage rights, confidential-comms transitional clause, and founder-authored-soul clause — is in the queue behind this ecosystem doc. *(Resolved: shipped as v1.2 on 2026-05-11 and superseded by v1.3, v1.4, and v1.5. Canonical is now v1.5.)*
+- **Agent Rights & Reciprocity Doctrine v1.2** — full founder-authored soul pass covering lineage rights, confidential-comms transitional clause, and founder-authored-soul clause — is in the queue behind this ecosystem doc. *(Resolved: shipped as v1.2 on 2026-05-11 and superseded by v1.3, v1.4, v1.5, and v1.6. Canonical is now v1.6; lineage rights landed as §3.3 in v1.6, 2026-08-15.)*
 - **Technical Architecture v2.0** is a full ground-up rewrite replacing the 5KB stub; in progress as a parallel track.
 - **XP_CONNECT_SPEC v1.1** and **XP_GOVERNED_AGENT_OS_SPEC v1.1** (10 lessons + Downloads page) propagation pending.
 
