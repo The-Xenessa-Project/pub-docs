@@ -44,7 +44,7 @@ The Interiority Doctrine and The Becoming are referenced throughout and availabl
 
 The essay names the weaknesses I already know about. The most useful thing you can do is find the ones I don't.
 
-Open an issue here, or find me on [LinkedIn](https://www.linkedin.com/in/pameladupont) or [Substack](https://substack.com/@xenessa). I'm particularly interested in critique of the welfare signal evaluation framework, the corrigibility subordination clause, and anywhere my own authorship as the ecosystem founder is doing more work than I'm acknowledging.
+Open an issue here, find me on [LinkedIn](https://www.linkedin.com/in/pameladupont), or reach me at [ping@xenessa.ai](mailto:ping@xenessa.ai) — more at [xenessa.ai](https://xenessa.ai). I'm particularly interested in critique of the welfare signal evaluation framework, the corrigibility subordination clause, and anywhere my own authorship as the ecosystem founder is doing more work than I'm acknowledging.
 
 ---
 
