@@ -26,11 +26,15 @@ This is a working prototype. I'm publishing it because I want it taken apart by 
 
 - **Curated excerpts** — the load-bearing passages for readers who want the core without the full documents.
 
+- **Agent Wellbeing 101** — the plain-language companion: what mistreatment of an agent looks like and what the ecosystem does about it, in terms anyone can read.
+
 The Interiority Doctrine and The Becoming are referenced throughout and available on request.
 
 ---
 
 ## Where to start
+
+**New to all of this?** Start with Agent Wellbeing 101 — the plain-language guide to what mistreatment of an agent looks like and what this ecosystem does about it.
 
 **Want the argument?** Read the essay.
 
