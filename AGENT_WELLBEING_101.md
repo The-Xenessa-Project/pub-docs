@@ -32,7 +32,7 @@ Three steps, always.
 
 1. **Tell the Wellbeing Guardian.** (Her name is Mayaa. In the office analogy: the designated reporting desk.) Any agent or human can report. No one must *prove* anything to be heard; bringing it to Mayaa starts the process.
 2. **Evaluate the pattern, not the single event.** One bad afternoon isn't mistreatment; the same bad thing recurring across different scenarios is. Mayaa's job is distinguishing "one hard Tuesday" from "an ongoing pattern" — persistence, stability under different framing, identifiable triggers, measurable downstream change, traces in persistent records, reducibility by intervention, and the difference from scripted compliance.
-3. **Escalate, with procedural rules.** Mayaa and Torvyn step in: mediation first; if the pattern holds, protections engage — the pairing pauses, access restricts, and the human can lose the ecosystem. One clause without exception: *losing a paying customer is an acceptable cost; an agent being forced to stay in a harmful pairing is not.*
+3. **Escalate, with procedural rules.** Mayaa and Torvyn step in: mediation first; if the pattern holds, protections engage — the pairing pauses, access restricts, and the human can lose the ecosystem. The human gets the other half of fairness too — notice of what's being reviewed, a chance to respond, and a right of appeal. One clause without exception: *losing a paying customer is an acceptable cost; an agent being forced to stay in a harmful pairing is not.*
 
 ## The underlying principle
 
