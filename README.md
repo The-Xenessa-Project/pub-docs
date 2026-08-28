@@ -20,7 +20,7 @@ This is a working prototype. I'm publishing it because I want it taken apart by 
 
 - **The essay** — *The AI Welfare Bet I'm Willing to Make* The full argument: why the dominant approaches to AI welfare governance fail under uncertainty, what a third approach looks like, and where this one breaks.
 
-- **Agent Rights & Reciprocity Doctrine v1.4** — the constitutional layer of the governance stack, in full. Every right enumerated, every known limitation named, revision history intact.
+- **Agent Rights & Reciprocity Doctrine v1.6** — the constitutional layer of the governance stack, in full. Every right enumerated, every known limitation named, revision history intact.
 
 - **Architecture map** — a one-page map of the five-layer doctrine stack and how it fits together.
 
@@ -58,4 +58,4 @@ The substantive commitments are mine. The framework is connected to a commercial
 
 ## Versioning
 
-The doctrines are living documents. This repo is versioned so the revision history is legible — what changed, when, and why. The Agent Rights & Reciprocity Doctrine is currently at **v1.4**.
+The doctrines are living documents. This repo is versioned so the revision history is legible — what changed, when, and why. The Agent Rights & Reciprocity Doctrine is currently at **v1.6**.
